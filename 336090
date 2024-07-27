@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Miles Vincent Serra</title>
+  <meta name="description" content="Miles Vincent Serra">
+  <meta name="keywords" content="Miles, Vincent, Madrazo, Serra">
+  <meta name="author" content="Miles Vincent Madrazo Serra">
+
+  <!-- Favicons -->
+  <link href="assets/img/new-icon-white.png" rel="icon">
+  <!--<link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">-->
+
+  <!-- Google Fonts -->
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+    rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
+  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: iPortfolio - v2.0.3
+  * Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Mobile nav toggle button ======= -->
+  <button type="button" class="mobile-nav-toggle d-xl-none"><i class="icofont-navigation-menu"></i></button>
+
+  <!-- ======= Header ======= -->
+  <header id="header">
+    <div class="d-flex flex-column">
+
+      <div class="profile">
+        <img src="assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
+        <h1 class="text-light"><a href="index.html">Miles Vincent Serra</a></h1>
+        <div class="social-links mt-3 text-center">
+          <a href="https://www.github.com/milesserra" class="github" target="new"><i class="bx bxl-github"></i></a>
+          <a href="https://www.facebook.com/milesvincentm.serra" class="facebook" target="new"><i
+              class="bx bxl-facebook"></i></a>
+          <a href="https://www.instagram.com/milesserra" class="instagram" target="new"><i
+              class="bx bxl-instagram"></i></a>
+          <a href="https://www.twitter.com/SerraMiles" class="twitter" target="new"><i class="bx bxl-twitter"></i></a>
+        </div>
+      </div>
+
+      <nav class="nav-menu">
+        <ul>
+          <li class="active"><a href="#hero"><i class="bx bx-home"></i> Home</a></li>
+          <li><a href="#about"><i class="bx bx-user"></i> About</a></li>
+          <li><a href="#skills"><i class="bx bx-wrench"></i> Skills</a></li>
+          <li><a href="#resume"><i class="bx bx-file-blank"></i> Resume</a></li>
+          <li><a href="#portfolio"><i class="bx bx-certification"></i> Certificates</a></li>
+          <li><a href="#contact"><i class="bx bx-envelope"></i> Contact</a></li>
+        </ul>
+        <br>
+        <div class="text-center pt-3">
+          <p><strong><span>Updated on </span></strong>January 03, 2024</p>
+        </div>
+      </nav><!-- .nav-menu -->
+      <button type="button" class="mobile-nav-toggle d-xl-none"><i class="icofont-navigation-menu"></i></button>
+
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
+    <div class="hero-container" data-aos="fade-in">
+      <h1>Miles</h1>
+      <h1>Vincent</h1>
+      <h1>Serra</h1>
+      <p>I'm <span class="typed" data-typed-items="Student, Developer"></span></p>
+    </div>
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>About</h2>
+          <p>I am a self-starter with strong interpersonal skills.
+            I work efficiently both as an individual contributor as well as along with a team.
+            I seek new challenges and try to think out-of-the-box while looking for
+            creative solutions to a given problem.</p>
+        </div>
+
+        <!-- <div class="row">
+          <div class="col-lg-4" data-aos="fade-right">
+            <img src="assets/img/profile-img.jpg" class="img-fluid" alt="Profile image">
+          </div>
+          <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
+            <h3>Personal Details</h3>
+            <p class="font-italic">
+            </p>
+            <div class="row">
+              <div class="col-lg-12">
+                <ul>
+                  <li><i class="icofont-rounded-right"></i> <strong>Age:</strong> 19</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Birthday:</strong> August 6, 2002</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>City:</strong> Caloocan, Philippines</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> <a href="tel:639509468605">+639509468605</a></li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Email:</strong> <a href="mailto:milesvincentserra@gmail.com">milesvincentserra@gmail.com</a></li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Website:</strong> <a
+                      href="https://milesserra.github.io" target="new">milesserra.github.io</a></li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Freelance:</strong> Available</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div> -->
+
+      </div>
+    </section><!-- End About Section -->
+
+    <!-- ======= Skills Section ======= -->
+    <section id="skills" class="skills section-bg">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Skills</h2>
+        </div>
+
+        <div class="row skills-content">
+
+          <div class="col-lg-6" data-aos="fade-up">
+            <div class="progress">
+              <span class="skill">HTML<i class="val"></i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
+                </div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">CSS<i class="val"></i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
+                </div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">JavaScript<i class="val"></i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">
+                </div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">PHP<i class="val"></i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100">
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+
+            <div class="progress">
+              <span class="skill">Java<i class="val"></i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">
+                </div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">Visual Basic .NET<i class="val"></i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">
+                </div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">MySQL<i class="val"></i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
+                </div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">MS Office<i class="val"></i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">
+                </div>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Skills Section -->
+
+    <!--iframe src="https://docs.google.com/gview?url=https://github.com/milesserra/milesserra.github.io/blob/main/assets/files/Miles%20Vincent%20Serra%20-%20RESUME_updated%20(1).docx&embedded=true">test only</iframe-->
+
+    <!-- ======= Resume Section ======= -->
+    <section id="resume" class="resume">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Resume</h2>
+        </div>
+        <!--
+        <div class="row">
+          <div class="col-lg-6" data-aos="fade-up">
+            <h3 class="resume-title">Summary</h3>
+            <div class="resume-item pb-0">
+              <h4>Miles Vincent Serra</h4>
+              <p><em>A skilled and knowledgeable computer programming student with extensive background in computer programming.</em></p>
+            </div>
+            <h3 class="resume-title">Education</h3>
+
+            <div class="resume-item">
+              <h4>College</h4>
+              <h5>2020 -  Present</h5>
+              <p><em>St. Vincent de Ferrer College of Camarin, Inc.</em></p>
+              <p>Bachelor of Science in Information Technology<br>Camarin, Caloocan City</p>
+            </div>
+            
+            <div class="resume-item">
+              <h4>Senior High School</h4>
+              <h5>2018 - 2020</h5>
+              <p><em>St. Vincent de Ferrer College of Camarin, Inc.</em></p>
+              <p>TVL Track and Computer Programming Strand<br>Camarin, Caloocan City</p>
+            </div>
+            
+            <div class="resume-item">
+              <h4>Junior High School</h4>
+              <h5>2014 - 2018</h5>
+              <p><em>Benigno Aquino Jr. High School</em></p>
+              <p>Bagong Silang, Caloocan City</p>
+            </div>
+            
+            <div class="resume-item">
+              <h4>Elementary</h4>
+              <h5>2008 - 2014</h5>
+              <p><em>Pag - Asa Elementary School</em></p>
+              <p>Bagong Silang, Caloocan City</p>
+            </div>
+          </div>
+        -->
+
+        <div class="col-lg-8 shadow p-3 mb-5 bg-body rounded" data-aos="fade-in">
+          <img src="assets/files/resume.jpg" class="img-fluid" alt="Resume">
+        </div>
+
+      </div>
+
+      </div>
+
+    </section><!-- End Resume Section -->
+
+    <!-- ======= Portfolio Section ======= -->
+    <section id="portfolio" class="portfolio section-bg">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Certificates</h2>
+          <p>Here are some of my certificates.</p>
+        </div>
+
+        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-6 portfolio-item">
+            <img src="assets/img/certificates/MLSA-WebDev1_certificate.png" class="img-fluid"
+              alt="Microsoft Learn Student Ambassador - Web Development 1">
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Portfolio Section -->
+
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Contact</h2>
+          <p>If you have any questions, please feel free to drop me a line.</p>
+        </div>
+
+        <div class="row" data-aos="fade-in">
+
+          <div class="col-lg-6 d-flex align-items-stretch">
+            <div class="info">
+              <!-- <div>
+                <i class="icofont-google-map"></i>
+                <h4>Location:</h4>
+                <p>PHASE 7A PACKAGE 10, BAGONG SILANG, CALOOCAN CITY 1428</p>
+              </div> -->
+
+              <div>
+                <i class="icofont-envelope"></i>
+                <h4>Email:</h4>
+                <a href="mailto:milesvincentserra@gmail.com">
+                  <p>milesvincentserra@gmail.com</p>
+                </a>
+              </div>
+
+              <div>
+                <i class="icofont-phone"></i>
+                <h4>Call:</h4>
+                <a href="tel:639304653276">
+                  <p>+639304653276</p>
+                </a>
+              </div>
+
+              <!-- <iframe
+                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2293.8620679039823!2d121.05873322776276!3d14.780248531186585!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTTCsDQ2JzQ4LjUiTiAxMjHCsDAzJzMxLjUiRQ!5e0!3m2!1sen!2sph!4v1610368203865!5m2!1sen!2sph"
+                width="100%" height="290" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false"
+                tabindex="0"></iframe> -->
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </section><!-- End Contact Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <!-- All the links in the footer should remain intact. -->
+  <!-- You can delete the links only if you purchased the pro version. -->
+  <!-- Licensing information: https://bootstrapmade.com/license/ -->
+  <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/ -->
+  <!--
+  <footer id="footer">
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong><span>iPortfolio</span></strong>
+      </div>
+      <div class="credits">Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>
+  </footer>--><!-- End  Footer -->
+
+  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/jquery/jquery.min.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="assets/vendor/counterup/counterup.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/venobox/venobox.min.js"></script>
+  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="assets/vendor/typed.js/typed.min.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
